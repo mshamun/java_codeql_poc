@@ -1,1 +1,3 @@
-# java_codeql_poc
+# JavaApp
+
+A sample Java web application
